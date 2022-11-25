@@ -1,0 +1,19 @@
+unify columns - done
+remove chars - done
+tranform int & float umschreiben - done
+Leerzeichen bei Argument Kommentaren
+Kommentieren aller Funktionen
+warnings module
+after grouping also to numeric
+basic check module 
+    - duplicate
+    - irrelevante spalten
+
+size list generator - done
+
+sku_group als unterklasse vom importer
+
+replace values methode
+
+correct column_names
+correct 
